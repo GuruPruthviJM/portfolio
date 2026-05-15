@@ -68,7 +68,7 @@ export default function App() {
           </p>
           <div className="hero-links fade-up delay-3">
             <a className="btn btn-primary" href="#contact">Get in touch</a>
-            <a className="btn btn-outline" href="/resume.pdf" download>Resume ↓</a>
+            <a className="btn btn-outline" href="/Guru_Pruthvi_Resume.pdf" download>Resume ↓</a>
             <a className="btn btn-outline" href="https://linkedin.com" target="_blank" rel="noreferrer">LinkedIn ↗</a>
           </div>
         </div>
@@ -96,6 +96,8 @@ export default function App() {
               <li>Optimized Python-based scheduled jobs, cutting execution time by 75% (40 → 10 minutes) and improving data pipeline efficiency.</li>
               <li>Designed and implemented REST APIs and microservices with Node.js &amp; Express, handling high-volume requests with optimized SQL queries.</li>
               <li>Debugged and resolved production issues, ensuring high availability and faster incident resolution.</li>
+              <li> Leveraged AI-assisted development tools including ChatGPT, Claude, and GitHub Copilot to accelerate 
+development, improve code quality, and deliver features with faster turnaround times. </li>
             </ul>
           </div>
         </div>
